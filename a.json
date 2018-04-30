@@ -1,9 +1,9 @@
-{
-    "metadata":{
-        "type":"BufferGeometry",
+{"metadata":{
+       
         "normal":32,
         "version":3,
         "position":32,
+         "type":"BufferGeometry",
         "generator":"io_three"
     },
     "data":{
